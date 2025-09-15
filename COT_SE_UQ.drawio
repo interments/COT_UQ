@@ -160,7 +160,7 @@
         <mxCell id="3C1mUvQcVeZkOKbagMCH-54" value="&lt;p class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#f9f7ed;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="220" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3C1mUvQcVeZkOKbagMCH-56" value="Albert Einstein (1879–1955) was a German-born theoretical physicist, best known for developing the theory of relativity, which transformed modern physics. He received the 1921 Nobel Prize in Physics for his explanation of the photoelectric effect and spent his later years as a professor at Princeton University." style="text;align=center;verticalAlign=middle;rounded=0;spacing=0;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="3C1mUvQcVeZkOKbagMCH-56" value="Albert Einstein (1879–1955) was a German-born theoretical physicist, best known for developing the theory of relativity, which transformed modern physics. He received the 1921 Nobel Prize in Physics for his explanation of the photoelectric effect and spent his later years as a professor at Princeton University." style="text;align=center;verticalAlign=middle;rounded=0;spacing=0;whiteSpace=wrap;fontSize=8;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="360.94" y="193.25" width="243.13" height="116" as="geometry" />
         </mxCell>
       </root>
