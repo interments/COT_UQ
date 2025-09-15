@@ -13,8 +13,8 @@
         <mxCell id="3C1mUvQcVeZkOKbagMCH-3" value="&lt;font style=&quot;color: light-dark(rgb(215, 156, 0), rgb(237, 237, 237));&quot; face=&quot;Comic Sans MS&quot;&gt;User&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="95" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3C1mUvQcVeZkOKbagMCH-6" value="&lt;font style=&quot;line-height: 80%; font-size: 7px;&quot;&gt;Can you tell me about Albert Einstein&#39;s life and achievements?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="40" width="170" height="26" as="geometry" />
+        <mxCell id="3C1mUvQcVeZkOKbagMCH-6" value="Can you tell me about Albert Einstein&#39;s life and achievements?" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;spacing=0;whiteSpace=wrap;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="135" y="90" width="130" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
